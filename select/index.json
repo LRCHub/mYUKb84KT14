@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ミラーチューン",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-02T15:38:01.627862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_ミラーチューン_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_ミラーチューン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_ミラーチューン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_ミラーチューン_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/05_ミラーチューン_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミラーチューン - MIRROR TUNE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_ミラーチューン_-_MIRROR_TUNE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミラーチューン (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_ミラーチューン_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_ミラーチューン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミラーチューン",
+      "artist": "Zutto Mayonaka De Iinoni.",
+      "has_synced": true,
+      "path": "select/09_ミラーチューン_Zutto_Mayonaka_De_Iinoni..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『ミラーチューン』MV (ZUTOMAYO - MIRROR TUNE)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_ずっと真夜中でいいのに。『ミラーチューン』MV_(ZUTOMAYO_-_MIRROR_TUNE)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ミラーチューン - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_06_ミラーチューン_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
